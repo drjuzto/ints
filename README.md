@@ -6,6 +6,9 @@ make all  Evens
 ____________________________________________
 infofile
 TempPath()+namespace+.bat
+____________________________________________
+sender Decryptor
+if even -2 else -1
 
 ____________________________________________
 fbflooder
