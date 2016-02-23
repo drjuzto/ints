@@ -4,7 +4,10 @@ if Even +0 ;
 if odd +=1 ;
 make all  Evens 
 ____________________________________________
+infofile
+TempPath()+namespace+.bat
 
+____________________________________________
 fbflooder
 https://raw.githubusercontent.com/drjuzto/ints/master/fbflooder.txt
 ____________________________________________ 
