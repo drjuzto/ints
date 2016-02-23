@@ -1,3 +1,4 @@
 fbflood=0;
 private=0;
 public=0;
+sender=0;
